@@ -1,0 +1,6 @@
+{
+"appId": "com.medya.player.app",
+"appName": "Mobil Medya Oynatici",
+"webDir": "www",
+"bundledWebRuntime": false
+}
